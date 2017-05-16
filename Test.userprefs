@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F4F4104F-A7A3-4BF0-BA9D-8A80F1F571B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Test/Controllers/HomeController.cs" Line="2" Column="8" />
+      <File FileName="Test/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="Test/Model/MyDbContext.cs" Line="23" Column="13" />
+      <File FileName="Test/Views/Home/Index.cshtml" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

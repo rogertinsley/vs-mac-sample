@@ -1,0 +1,10 @@
+/Users/rogertinsley/Desktop/Test/Test/bin/Debug/netcoreapp1.1/Test.deps.json
+/Users/rogertinsley/Desktop/Test/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.json
+/Users/rogertinsley/Desktop/Test/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.dev.json
+/Users/rogertinsley/Desktop/Test/Test/bin/Debug/netcoreapp1.1/Test.dll
+/Users/rogertinsley/Desktop/Test/Test/bin/Debug/netcoreapp1.1/Test.pdb
+/Users/rogertinsley/Desktop/Test/Test/obj/Debug/netcoreapp1.1/Test.csprojResolveAssemblyReference.cache
+/Users/rogertinsley/Desktop/Test/Test/obj/Debug/netcoreapp1.1/Test.AssemblyInfo.cs
+/Users/rogertinsley/Desktop/Test/Test/obj/Debug/netcoreapp1.1/Test.dll
+/Users/rogertinsley/Desktop/Test/Test/obj/Debug/netcoreapp1.1/Test.pdb
+/Users/rogertinsley/Desktop/Test/Test/obj/Debug/netcoreapp1.1/Test.csproj.CoreCompileInputs.cache
